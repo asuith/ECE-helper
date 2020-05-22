@@ -23,7 +23,7 @@ CS231n介绍机器学习在计算机视觉领域的知识。
 
 [课程地址](http://cs231n.stanford.edu/)无视频，有slides。
 
-公开了2019年录制的视频。[课程地址](http://cs231n.stanford.edu/2017/syllabus)
+公开了2019年录制的视频，[课程地址](http://cs231n.stanford.edu/2017/syllabus)，有video，lab，以及homework等等。
 
 
 ## 算法
