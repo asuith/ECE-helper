@@ -2,11 +2,12 @@
 
 做 homework 跟 lab 才会有更大收获。
 
-注意二级标题为大分类，三级标题为某课程、书籍等等。课程标题前面一般有课程代码，如`CS231n`, `6.824`, `CS 61A`等等以示区分。
+注意二级标题为大分类，三级标题为某课程、书籍等等。课程标题前面一般有课程代码，如`CS231n`, `6.824`, `CS 61A`等等，书籍名称为斜体，以示区分。
 
 TODO:
 - [ ] 课程介绍，如先修知识、课程难度
 - [ ] 资源地址，如lab、视频的链接
+- [ ] 讲师/作者
 
 ## 机器学习
 
@@ -27,11 +28,15 @@ CS231n介绍机器学习在计算机视觉领域的知识。
 
 ## 算法
 
-### Computer Systems: A Programmer's Perspective
+### *Computer Systems: A Programmer's Perspective*
 
 [书籍介绍](https://csapp.cs.cmu.edu/)
 
 [Lab以及阅读材料](http://csapp.cs.cmu.edu/3e/students.html)
+
+### *Algorithm Design*
+
+Jon Kleinberg所写的 *Algorithm Design*。
 
 ### CS 61A: Structure and Interpretation of Computer Programs
 
