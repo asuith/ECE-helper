@@ -2,7 +2,7 @@
 
 Self-learning guide for CS students in school of ECE.
 
-抱怨不是目的，提升自身水平才是关键。
+抱怨不是目的，提升自身水平才是关键。访问地址：[https://helper.suith.xyz/](https://helper.suith.xyz/)
 
 [书籍、课程推荐](/book-and-course.md)从聊天记录总结而来，推荐了一些可用于自学的书籍和课程。
 
