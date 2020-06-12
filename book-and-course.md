@@ -25,6 +25,13 @@ CS231n介绍机器学习在计算机视觉领域的知识。
 
 公开了2019年录制的视频，[课程地址](http://cs231n.stanford.edu/2017/syllabus)，有video，lab，以及homework等等。
 
+### CS224n: Natural Language Processing with Deep Learning
+
+斯坦福大学课程的自然语言处理（NLP）课程。
+
+[课程地址](https://web.stanford.edu/class/cs224n/index.html#schedule)无开放视频，有slices。
+
+公开了2019年录制的视频，[YouTube地址](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)。
 
 ## 算法
 
