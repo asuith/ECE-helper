@@ -13,13 +13,15 @@ TODO:
 
 ### CS188: Intro to Artificial Intelligence
 
+伯克利大学的人工智能（AI）课程。
+
 [最新课程地址](https://inst.eecs.berkeley.edu/~cs188)没有视频，有slides。
 
 公开了2012-14年录制的视频。[课程地址](http://ai.berkeley.edu/home.html)，有video，lab，以及homework等等。
 
 ### CS231n: Convolutional Neural Networks for Visual Recognition
 
-CS231n介绍机器学习在计算机视觉领域的知识。
+斯坦福大学课程的计算机视觉（CV）课程。
 
 [课程地址](http://cs231n.stanford.edu/)无视频，有slides。
 
