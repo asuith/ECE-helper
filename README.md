@@ -1,4 +1,4 @@
-# ECE-helper
+# ECEhelper
 
 Self-learning guide for CS students in school of ECE.
 
