@@ -56,6 +56,10 @@ CS229 是斯坦福的机器学习课程，讲师是 Andrew NG。
 
 ## 算法
 
+### Algorithms
+
+Princeton 大学在 Coursera 上这门课有两部分，分别是 [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) 以及 [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part2)，由 Kevin Wayne 和 Robert Sedgewick 老师教授。
+
 ### _Algorithm Design_
 
 Jon Kleinberg 所写的 _Algorithm Design_。
