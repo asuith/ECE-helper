@@ -12,6 +12,14 @@ TODO:
 
 ## 机器学习
 
+### CS188: Intro to Artificial Intelligence
+
+伯克利大学的人工智能（AI）课程。
+
+[最新课程地址](https://inst.eecs.berkeley.edu/~cs188)没有视频，有slides。
+
+公开了 2012-14 年录制的视频。[课程地址](http://ai.berkeley.edu/home.html)，有 video，lab，以及 homework 等等。
+
 ### CS229: Machine Learning
 
 CS229 是斯坦福的机器学习课程，讲师是 Andrew NG。
@@ -21,14 +29,6 @@ CS229 是斯坦福的机器学习课程，讲师是 Andrew NG。
 [Syllabus and Course Schedule \(2018\)](http://cs229.stanford.edu/syllabus-autumn2018.html) has the problems and notes of the course.
 
 [Problem Set and Solution](https://github.com/zhixuan-lin/cs229-ps-2018) on GitHub.
-
-### CS188: Intro to Artificial Intelligence
-
-伯克利大学的人工智能（AI）课程。
-
-[最新课程地址](https://inst.eecs.berkeley.edu/~cs188)没有视频，有slides。
-
-公开了 2012-14 年录制的视频。[课程地址](http://ai.berkeley.edu/home.html)，有 video，lab，以及 homework 等等。
 
 ### CS231n: Convolutional Neural Networks for Visual Recognition
 
