@@ -8,9 +8,11 @@ Self-learning guide for CS students in school of ECE.
 
 [学习小组](study-group.md)是学院内部有意一起学习的人组成的小组，相互帮助，暂不对学院外开放。
 
+[实验室介绍](lab-intro.md)介绍了信工学院计算机方向的各位老师及所在实验室，方便保研、考研同学进行选择。
+
 TODO:
 
 * [x] 学习小组
-* [ ] 实验室评价
+* [x] 实验室评价
 * [ ] 前辈去向
 

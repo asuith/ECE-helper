@@ -12,9 +12,14 @@
 
 目前学习小组的的计划是：
 
-* [LeetCode周赛](https://leetcode.com/contest/)，单双周都有比赛。
-* [KickStart](https://codingcompetitions.withgoogle.com/kickstart)，谷歌举办的比赛，有机会赢得面试机会。
-* [书籍、课程推荐](book-and-course.md)，一起看书、上课、相互学习。
+* 自学课程
+    * [书籍、课程推荐](book-and-course.md)，一起看书、上课、相互学习。
+* 算法比赛
+    * [LeetCode周赛](https://leetcode.com/contest/)，单双周都有比赛。
+    * [KickStart](https://codingcompetitions.withgoogle.com/kickstart)，谷歌举办的比赛，有机会赢得面试机会。
+* 项目比赛
+    * [Kaggle比赛](https://www.kaggle.com/)
+    * [天池比赛](https://tianchi.aliyun.com/)
 * 膜大佬
 
 当然，并不说所有的计划都要参加，各位可按需进行自我要求。
